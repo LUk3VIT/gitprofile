@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'Lucas-Dias',
     x: 'arif_szn',
     mastodon: 'arifszn@mastodon.social',
     researchGate: '',

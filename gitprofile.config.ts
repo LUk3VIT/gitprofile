@@ -37,8 +37,7 @@ const CONFIG = {
   },
   seo: { title: 'Portfolio Do Lucas Dias', description: '', imageURL: '' },
   social: {
-    linkedin: 'lucas-dias-b109a7230',
-    dev: 'LUCAS DIAS',
+    linkedin: 'lucas-leonardo-cunha-dias',
     phone: '+55 11 98370-7155',
     email: 'lucas_dias001@outlookcom',
   },
